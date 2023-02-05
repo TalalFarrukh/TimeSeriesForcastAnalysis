@@ -1,4 +1,4 @@
-# TimeSeriesForcastAnalysis
+# Time Series Forcast Analysis
 
 Hey everyone! Let me give you a little overview of this small project right here. So the task here is that we have the Date, Latitude and Longitude as our data.
 What we need to do is peform binning and the values of the bins are the mean of the latitude and longitude values on the points inside the bin. I managed to achieve this
